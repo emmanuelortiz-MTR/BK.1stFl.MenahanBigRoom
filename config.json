@@ -1,0 +1,185 @@
+{
+  "options": [
+    {
+      "id": "start",
+      "title": {
+        "en": "Brooklyn Menahan Big Room Setup",
+        "es": "Configuración de la sala grande de Menahan en Brooklyn"
+      },
+      "type": "choice",
+      "choices": [
+        {
+          "id": "main_computer",
+          "title": {
+            "en": "💻 Use the Main Computer",
+            "es": "💻 Usar la computadora principal"
+          },
+          "description": {
+            "en": "I want to use the computer already in the room",
+            "es": "Quiero usar la computadora que ya está en la sala"
+          }
+        },
+        {
+          "id": "laptop_hdmi",
+          "title": {
+            "en": "🔌 Connect My Laptop via HDMI",
+            "es": "🔌 Conectar mi computadora portátil por HDMI"
+          },
+          "description": {
+            "en": "I want to connect my own laptop to present",
+            "es": "Quiero conectar mi propia computadora portátil para presentar"
+          }
+        }
+      ],
+      "steps": {
+        "main_computer": [
+          {
+            "instruction": {
+              "en": "First, let's turn on our Main TV. After pushing the power button, check to see that the light in the front of the TV lights up blue",
+              "es": "Primero, encendamos nuestra TV principal. Después de presionar el botón de encendido, verifique que la luz en el frente de la TV se ilumine en azul."
+            },
+            "video_url": "https://drive.google.com/file/d/1CATsd36VTW8jWmGDS2n7uQbaYTy-X-7B/view?usp=sharing",
+            "alt": {
+              "en": "Video showing how to turn the TV on",
+              "es": "Video que muestra cómo encender la TV"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Next, let's make sure the TV input is set to 'PC'. Use the input button on the side to move up and down between the options, until you land on 'PC'",
+              "es": "A continuación, asegurémonos de que la entrada de la TV esté configurada en 'PC'. Use el botón de entrada en el costado para moverse hacia arriba y hacia abajo entre las opciones, hasta que llegue a 'PC'."
+            },
+            "video_url": "https://drive.google.com/file/d/1LLgLv93jqMeH72g2m6GCUCmCdviGpDmL/view?usp=sharing",
+            "alt": {
+              "en": "Video showing how to change the input to PC",
+              "es": "Video que muestra cómo cambiar la entrada a PC"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Now, let's turn our attention to the main computer. If the screen isn't already showing you a computer, check to see that the computer is on. It is located in the white box to the left of the main TV.",
+              "es": "Ahora, centrémonos en la computadora principal. Si la pantalla aún no le muestra una computadora, verifique que la computadora esté encendida. Está ubicada en la caja blanca a la izquierda de la TV principal."
+            },
+            "video_url": "https://drive.google.com/file/d/1xgE4_hU-oJjxwELgnqSCU8sKMHSsnaT_/view?usp=sharing",
+            "alt": {
+              "en": "Video showing how to turn the main computer on",
+              "es": "Video que muestra cómo encender la computadora principal"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Once the screen for the computer is on, look for the Menahan Big Classroom Keyboard. It looks like this and usually is near the table in the front of the classroom.",
+              "es": "Una vez que la pantalla de la computadora esté encendida, busque el teclado del aula grande de Menahan. Se ve así y por lo general está cerca de la mesa en el frente del aula."
+            },
+            "image": "BIGMEN.roomKeyboard.jpg",
+            "alt": {
+              "en": "Image showing the Menahan Big Room Keyboard",
+              "es": "Imagen que muestra el teclado de la sala grande de Menahan"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Check to make sure that the keyboard is ON",
+              "es": "Verifique que el teclado esté ENCENDIDO"
+            },
+            "image": "BIGMEN.keyboardON.jpg",
+            "alt": {
+              "en": "Image showing the Menahan Big Room Keyboard switch as ON",
+              "es": "Imagen que muestra el interruptor del teclado de la sala grande de Menahan en ENCENDIDO"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Now this is an important note, the volume for the system is controlled from within the BOX. Be sure to adjust it before playing any media and be careful not to push the volume too high!",
+              "es": "Ahora, esta es una nota importante: el volumen del sistema se controla desde dentro de la CAJA. ¡Asegúrese de ajustarlo antes de reproducir cualquier medio y tenga cuidado de no subir el volumen demasiado!"
+            },
+            "video_url": "https://drive.google.com/file/d/1MEXy49oP_cvlIS_-0-o05snZS2SQ15LB/view?usp=sharing",
+            "alt": {
+              "en": "Video showing where the main volume knob is",
+              "es": "Video que muestra dónde está la perilla de volumen principal"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Try moving the mouse around or click on keys on the keyboard. Now click on 'Other User' on the bottom left and sign into your profile!",
+              "es": "Intente mover el mouse o presione teclas en el teclado. ¡Ahora haga clic en 'Otro usuario' en la parte inferior izquierda e inicie sesión en su perfil!"
+            },
+            "image": "BIGMEN.otherUserLogin.jpg",
+            "alt": {
+              "en": "Pic displaying the 'Other Users' log in screen on the Main TV",
+              "es": "Imagen que muestra la pantalla de inicio de sesión de 'Otros usuarios' en la TV principal"
+            }
+          }
+        ],
+        "laptop_hdmi": [
+          {
+            "instruction": {
+              "en": "First, let's turn on our Main TV. After pushing the power button, check to see that the light in the front of the TV lights up blue",
+              "es": "Primero, encendamos nuestra TV principal. Después de presionar el botón de encendido, verifique que la luz en el frente de la TV se ilumine en azul."
+            },
+            "video_url": "https://drive.google.com/file/d/1CATsd36VTW8jWmGDS2n7uQbaYTy-X-7B/view?usp=sharing",
+            "alt": {
+              "en": "Video showing how to turn the TV on",
+              "es": "Video que muestra cómo encender la TV"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Next, let's make sure the TV input is set to 'LAPTOP'. Use the input button on the side to move up and down between the options, until you land on 'LAPTOP'",
+              "es": "A continuación, asegurémonos de que la entrada de la TV esté configurada en 'LAPTOP'. Use el botón de entrada en el costado para moverse hacia arriba y hacia abajo entre las opciones, hasta que llegue a 'LAPTOP'."
+            },
+            "video_url": "https://drive.google.com/file/d/16oBaxp2aTkaYy2XvXPfRjeC8PWysMWHw/view?usp=sharing",
+            "alt": {
+              "en": "Video showing how to change the input to LAPTOP",
+              "es": "Video que muestra cómo cambiar la entrada a LAPTOP"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Now, look for the onsite HDMI cable. It is usually connected to an open HDMI port that is directly to the left of the TV. Be careful not to disconnect it from the wall!",
+              "es": "Ahora, busque el cable HDMI en el sitio. Por lo general, está conectado a un puerto HDMI abierto que está directamente a la izquierda de la TV. ¡Tenga cuidado de no desconectarlo de la pared!"
+            },
+            "image": "BIGMEN.hdmiCORD.jpg",
+            "alt": {
+              "en": "Pic displaying the HDMI cable on the left of the TV",
+              "es": "Imagen que muestra el cable HDMI a la izquierda de la TV"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Connect the HDMI cable to the HDMI port on your laptop, like so.",
+              "es": "Conecte el cable HDMI al puerto HDMI de su computadora portátil, de esta manera."
+            },
+            "image": "BIGMEN.hdmiPORTlaptop.jpg",
+            "alt": {
+              "en": "Pic displaying how to connect HDMI to laptop",
+              "es": "Imagen que muestra cómo conectar HDMI a la computadora portátil"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Now this is an important note, the volume for the system is controlled from within the BOX. Be sure to adjust it before playing any media and be careful not to push the volume too high!",
+              "es": "Ahora, esta es una nota importante: el volumen del sistema se controla desde dentro de la CAJA. ¡Asegúrese de ajustarlo antes de reproducir cualquier medio y tenga cuidado de no subir el volumen demasiado!"
+            },
+            "video_url": "https://drive.google.com/file/d/1MEXy49oP_cvlIS_-0-o05snZS2SQ15LB/view?usp=sharing",
+            "alt": {
+              "en": "Video showing where the main volume knob is",
+              "es": "Video que muestra dónde está la perilla de volumen principal"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Once you've plugged your laptop to the HDMI, the screen will mirror what your laptop is showing. You are ready to go!",
+              "es": "Una vez que haya conectado su computadora portátil al HDMI, la pantalla reflejará lo que su computadora portátil esté mostrando. ¡Está listo para continuar!"
+            },
+            "video_url": "https://drive.google.com/file/d/1MxOGjE5PtUlLMP9clyw5I2pNH90DhftB/view?usp=sharing",
+            "alt": {
+              "en": "Video showing what reflects after you've plugged your HDMI cable in",
+              "es": "Video que muestra lo que se refleja después de conectar su cable HDMI"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
