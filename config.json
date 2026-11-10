@@ -68,6 +68,17 @@
           },
           {
             "instruction": {
+              "en": "Let's make sure the right audio input is selected now. Look for a black box above the white box where the computer is. Select button 1 for PC audio.",
+              "es": "Asegurémonos de que se haya seleccionado la entrada de audio correcta ahora. Busque una caja negra encima de la caja blanca donde está la computadora. Seleccione el botón 1 para el audio de la PC."
+            },
+            "image": "BIGMEN.audioInput1PC.jpg",
+            "alt": {
+              "en": "Image showing the input 1 button for PC audio on the audio channel box",
+              "es": "Imagen que muestra el botón de entrada 1 para el audio de la PC en la caja de canales de audio"
+            }
+          },
+          {
+            "instruction": {
               "en": "Once the screen for the computer is on, look for the Menahan Big Classroom Keyboard. It looks like this and usually is near the table in the front of the classroom.",
               "es": "Una vez que la pantalla de la computadora esté encendida, busque el teclado del aula grande de Menahan. Se ve así y por lo general está cerca de la mesa en el frente del aula."
             },
@@ -154,6 +165,17 @@
             "alt": {
               "en": "Pic displaying how to connect HDMI to laptop",
               "es": "Imagen que muestra cómo conectar HDMI a la computadora portátil"
+            }
+          },
+          {
+            "instruction": {
+              "en": "Let's make sure the right audio input is selected now. Look for a black box above the white box where the computer is. Select button 2 for Laptop audio.",
+              "es": "Asegurémonos de que se haya seleccionado la entrada de audio correcta ahora. Busque una caja negra encima de la caja blanca donde está la computadora. Seleccione el botón 2 para el audio de la computadora portátil."
+            },
+            "image": "BIGMEN.audioInput2Laptop.jpg",
+            "alt": {
+              "en": "Image showing the input 2 button for Laptop audio on the audio channel box",
+              "es": "Imagen que muestra el botón de entrada 2 para el audio de la computadora portátil en la caja de canales de audio"
             }
           },
           {
